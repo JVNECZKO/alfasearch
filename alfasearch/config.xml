@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>alfasearch</name>
+    <displayName>Alfa Search</displayName>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <description>Extends the search functionality to include MPN and reference codes for product combinations.</description>
+    <tab>search_filter</tab>
+</module>
